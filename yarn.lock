@@ -1422,10 +1422,10 @@
   resolved "https://registry.yarnpkg.com/@choc-ui/logo/-/logo-1.0.0.tgz#23f5e6fc27fd546f6fc90891f332752ffe66066f"
   integrity sha512-ObD6fhEeBv+UFm4Pnvl8Aj/QA0D5cYi8V/TCDTfnZFddlz+ZxLbydLt8LyFHKcoxonK29MB3D1YQAw+3qU8spw==
 
-"@choc-ui/paginator@^3.2.0":
-  version "3.2.0"
-  resolved "https://registry.yarnpkg.com/@choc-ui/paginator/-/paginator-3.2.0.tgz#2aca98080d91c5d551887edb3c5a2181dee9ec1a"
-  integrity sha512-TnJXkYPink+6SA2oJWEbylxynKNXULtjFNrOD4iQurROqmH4TFDxruBselbCwbcJ11GKvyyklGtXXJxE2RiGLw==
+"@choc-ui/paginator@^3.4.0":
+  version "3.4.0"
+  resolved "https://registry.yarnpkg.com/@choc-ui/paginator/-/paginator-3.4.0.tgz#3e542f995dfb13461825221f46d00b8d05e1b324"
+  integrity sha512-JZ9Ep5m2W5r9I9J2NKuKvNevKh8wyxieX/o8NdcOxiQUzcaiEHZh0I/+R3H+k6W7nu2v4ti72xHJb1PeiZFZNw==
 
 "@emotion/babel-plugin@^11.3.0":
   version "11.3.0"
@@ -1902,10 +1902,10 @@
   resolved "https://registry.npmjs.org/@types/minimatch/-/minimatch-3.0.4.tgz"
   integrity sha512-1z8k4wzFnNjVK/tlxvrWuK5WMt6mydWWP7+zvH5eFep4oj+UkrfiJTRtjCeBXNpwaA/FYqqtb4/QS4ianFpIRA==
 
-"@types/node@*", "@types/node@^14.14.33":
-  version "14.14.37"
-  resolved "https://registry.npmjs.org/@types/node/-/node-14.14.37.tgz"
-  integrity sha512-XYmBiy+ohOR4Lh5jE379fV2IU+6Jn4g5qASinhitfyO71b/sCo6MKsMLF5tc7Zf2CE8hViVQyYSobJNke8OvUw==
+"@types/node@*", "@types/node@^17.0.23":
+  version "17.0.23"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-17.0.23.tgz#3b41a6e643589ac6442bdbd7a4a3ded62f33f7da"
+  integrity sha512-UxDxWn7dl97rKVeVS61vErvw086aCYhDLyvRQZ5Rk65rZKepaFdm53GeqXaKBuOhED4e9uWq34IC3TdSdJJ2Gw==
 
 "@types/object-assign@4.0.30":
   version "4.0.30"
@@ -6654,10 +6654,10 @@ prettier-linter-helpers@^1.0.0:
   dependencies:
     fast-diff "^1.1.2"
 
-prettier@^2.3.0:
-  version "2.3.0"
-  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.3.0.tgz#b6a5bf1284026ae640f17f7ff5658a7567fc0d18"
-  integrity sha512-kXtO4s0Lz/DW/IJ9QdWhAf7/NmPWQXkFr/r/WkR3vyI+0v8amTDxiaQSLzs8NBlytfLWX/7uQUMIW677yLKl4w==
+prettier@^2.6.1:
+  version "2.6.1"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.6.1.tgz#d472797e0d7461605c1609808e27b80c0f9cfe17"
+  integrity sha512-8UVbTBYGwN37Bs9LERmxCPjdvPxlEowx2urIL6urHzdb3SDq4B/Z6xLFCblrSnE4iKWcS6ziJ3aOYrc1kz/E2A==
 
 pretty-bytes@^5.3.0, pretty-bytes@^5.4.1:
   version "5.6.0"
